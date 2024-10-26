@@ -1,0 +1,10 @@
+Pytohn es un lenguaje de programacion multiraradigma 
+
+Significa que puede soportar diferentes modos de programacion
+Imperativa (estructural), Orientada a Objetos, Funcional
+Multiplataforma significa que tiene soporte para Windows, Linux, estructural 
+
+Es fuertemente tipado, significa que debemos conocer el tipadode dato, al usar una variable en un contexto diferente () debe de existir una conversacion
+
+
+Es un lenguaje interpretado, no pasa por un estado de compilacion, significa que no pasa por un lenguaje maquina 
