@@ -1,0 +1,31 @@
+Harry Potter, Gryffindor,Ciervo, Humano, Estudiante, Valiente, Sauce, Ciervo, Huerfano
+Hermione Granger, Gryffindor, Nutria, Humano, Estudiante, Inteligente, Vid, Nutria, Muggles
+Ron Weasley, Gryffindor, Perro, Humano, Estudiante, Leal, Sauce, Perro, Weasley
+Albus Dumbledore, Gryffindor, Fenix, Humano, Director, Sabio, Sauco, Fenix, Aberforth
+Severus Snape, Slytherin, Cierva, Humano, Profesor, Reservado, Acacia, Cierva, Snape
+Draco Malfoy, Slytherin, Comadreja, Humano, Estudiante, Arrogante, Tejo, Serpiente, Malfoy
+Neville Longbottom, Gryffindor, Llama, Humano, Estudiante, Valiente, Tejo, Sapo, Longbottom
+Luna Lovegood, Ravenclaw, Conejo, Humano, Estudiante, Excentrica, Olmo, Conejo, Lovegood
+Ginny Weasley, Gryffindor, Caballo, Humano, Estudiante, Fuerte, Endrino, Caballo, Weasley
+Fred Weasley, Gryffindor, Dragon, Humano, Estudiante, Travieso, Cerezo, Dragon, Weasley
+George Weasley, Gryffindor, Dragon, Humano, Estudiante, Divertido, Cerezo, Dragon, Weasley
+Minerva McGonagall, Gryffindor, Gato, Humano, Directora, Justa, Abeto, Gato, N/A
+Rubeus Hagrid, Gryffindor, N/A, Humano, Guardabosques, Amistoso, Pino, N/A, Gigante
+Sirius Black, Gryffindor, Perro, Humano, Profesor, Leal, Serbal, Perro, Black
+Remus Lupin, Gryffindor, Lobo, Humano, Profesor, Empatico, Sauco, Lobo, Lupin
+Bellatrix Lestrange, Slytherin, N/A, Humano, Profesora, Malevola, Nuez, N/A, Lestrange
+Lucius Malfoy, Slytherin, Serpiente, Humano, Profesor, Orgulloso, Cornejo, Serpiente, Malfoy
+Molly Weasley, Gryffindor, Nutria, Humano, Madre de Ron, Maternal, Sauce, Nutria, Weasley
+Arthur Weasley, Gryffindor, N/A, Humano, Padre de Ron, Curioso, Roble, N/A, Weasley
+Cedric Diggory, Hufflepuff, N/A, Humano, Estudiante, Honorable, Roble, N/A, Diggory
+Cho Chang, Ravenclaw, Pjaro, Humano, Estudiante, Dulce, Sauce, Pajaro, N/A
+Voldemort (Tom Riddle), Slytherin, N/A, Humano, Villano, Tirano, Sauco, N/A, Gaunt
+Tom Riddle (Joven), Slytherin, N/A, Humano, Villano, Ambicioso, Sauco, N/A, Gaunt
+Dobby, N/A, N/A, Elfo, Elfo domestico, Leal, N/A, N/A, N/A
+Kreacher, N/A, N/A, Elfo, Elfo domestico, Despreciativo, N/A, N/A, Black
+Horace Slughorn, Slytherin, N/A, Humano, Profesor, Ambicioso, N/A, N/A, N/A
+Moaning Myrtle, N/A, N/A, Fantasma, Fantasma, Lamentosa, N/A, N/A, N/A
+The Grey Lady (Helena Ravenclaw), Ravenclaw, N/A, Fantasma, Fantasma, Melancolica, N/A, N/A, N/A
+Nearly Headless Nick (Sir Nicholas de Mimsy-Porpington), Gryffindor, N/A, Fantasma, Fantasma, Inocente, N/A, N/A, N/A
+Gilderoy Lockhart, Ravenclaw, N/A, Humano, Profesor, Vanidoso, N/A, N/A, N/A
+Vernon Dursley,N/A,N/A,Humano,Primo,Odioso,N/A,N/A,Dursley
